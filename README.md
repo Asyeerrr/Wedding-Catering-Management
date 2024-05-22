@@ -17,6 +17,7 @@ Step-by-Step
 8. Basically that's all for the database part. To enter the web server, go to http://localhost/user_reg/login.php
 
 9. There are 3 users which are Admin, Wedding Manager and Catering Manager. 
+
 For Admin : 
 email = admin@gmail.com
 pass = admin123
